@@ -116,7 +116,7 @@ def slowprint(s):
         time.sleep(8. / 100)
 print("\033[95m+-------------------------------------------------+")
 slowprint('''\033[95m|             Welcome To Hacker wasii           |
-|           Subscribe Our YouTube Channel         |
+|           Bzhi Kurdistan       |
 | Watch Ours Tutorials For Learn Ethical Hacking  |''')
 print("+-------------------------------------------------+")
 
